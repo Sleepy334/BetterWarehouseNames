@@ -4,7 +4,7 @@ namespace BetterWarehouseNames
 {
     public class TransferManagerMain : IUserMod
 	{
-		private static string Version = "v0.1";
+		private static string Version = "v0.2";
 
 #if DEBUG
         private static string Config => " [DEBUG]";
